@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+body {
+  background: #f0f4f8;
+  color: #1a2b4a;
+}
+
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+  transition: all 0.2s ease;
+}
